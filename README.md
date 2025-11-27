@@ -26,5 +26,5 @@ Oyun geliştirme tutkusuyla C# ve Unity kullanarak temiz, optimize ve ölçeklen
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tunahan78&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
-[Linkedin Profilim](hhttps://www.linkedin.com/in/tunahandev/)
+[Linkedin Profilim](https://www.linkedin.com/in/tunahandev/)
 
